@@ -1,6 +1,6 @@
 <div align="center">
 <h3> PhyGenesis: Toward Physically Consistent Driving Video World Models under Challenging Trajectories</h3>
-<h3>ECCV 2026</h3>
+
 Jiawei Zhou<sup>1,2*</sup>, Zhenxin Zhu<sup>2*</sup>, Lingyi Du<sup>1*</sup>, Linye Lyu<sup>3</sup>, Lijun Zhou<sup>2</sup>, Zhanqian Wu<sup>2</sup>, <br> Hongcheng Luo<sup>2</sup>, Zhuotao Tian<sup>4</sup>, Bing Wang<sup>2</sup>, Guang Chen<sup>2</sup>, Haiyang Sun<sup>2†</sup>, Hangjun Ye<sup>2‡</sup>, Yu Li<sup>1‡</sup>
 
 <sup>1</sup> Zhejiang University &nbsp;&nbsp;&nbsp;
@@ -37,7 +37,8 @@ To effectively train these components, we construct a large-scale, physics-rich 
 </div>
 
 ## Acknowledgments
-- The website template is adapted from [Nerfies](https://github.com/nerfies/nerfies.github.io) and [DriveLaW](https://github.com/wm-research/DriveLaW).
+- Built on [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+- Built on [DiffusionDrive](https://github.com/Jiawei-Zho/DiffusionDrive)
 
 ## Citation
 If you find PhyGenesis is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
