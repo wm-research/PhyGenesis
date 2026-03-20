@@ -228,16 +228,16 @@
         <div class="content has-text-justified">
           <p>We visually compare PhyGenesis with the highly competitive baseline MagicDriveV2 under various realistic and challenging driving events.</p>
         </div>
-        <div class="video-compare-container">
+        <div class="video-compare-container" style="align-items: stretch;">
           <div class="video-compare-item">
             <h4 class="title is-5">MagicDriveV2</h4>
-            <video playsinline autoplay loop muted controls style="width: 100%;">
+            <video playsinline autoplay loop muted controls style="width: 100%; height: 100%; object-fit: cover; aspect-ratio: 8/3;">
               <source src="./static/videos/fig5_magicdrivev2.mp4" type="video/mp4">
             </video>
           </div>
           <div class="video-compare-item">
             <h4 class="title is-5">PhyGenesis (Ours)</h4>
-            <video playsinline autoplay loop muted controls style="width: 100%;">
+            <video playsinline autoplay loop muted controls style="width: 100%; height: 100%; object-fit: cover; aspect-ratio: 8/3;">
               <source src="./static/videos/fig5_phygenesis.mp4" type="video/mp4">
             </video>
           </div>
@@ -301,14 +301,14 @@
   <div class="container is-max-desktop">
     <h2 class="title is-3" style="text-align: center;">Quantitative Evaluations</h2>
     <div class="content has-text-justified">
-      <p> Extensive experiments demonstrate that PhyGenesis achieves state-of-the-art results compared directly with multiple competitive approaches on both multi-view and single-view generation configurations, evaluating against FID, FVD, and physically aligned collision evaluation indexes. </p>
+      <p> Extensive experiments demonstrate that PhyGenesis achieves state-of-the-art results compared directly with multiple competitive approaches on both multi-view and single-view generation configurations, evaluating against FID, FVD, and physical consistency collision evaluation metrics. </p>
     </div>
     
     <div class="columns is-centered mt-4">
       <div class="column is-full-width has-text-centered">
         <h3 class="title is-4">Evaluation under 2D Trajectories</h3>
         <p class="content has-text-justified mb-2">
-          <strong>Table 1</strong> presents the evaluation under 2D trajectory inputs. The <code>Carla ego</code> and <code>Carla adv</code> settings involve challenging, anti-physical trajectory inputs. This table compares the overall robustness and performance of the entire framework.
+          <strong>Table 1</strong> presents the evaluation under 2D trajectory inputs. The <code>Carla ego</code> and <code>Carla adv</code> settings involve challenging, physics-violating trajectory inputs. This table compares the overall robustness and performance of the entire framework.
         </p>
         <img src="./static/images/Table1.png" alt="Table 1 Results" style="width: 100%; max-width: 900px; margin: 0 auto;">
       </div>
