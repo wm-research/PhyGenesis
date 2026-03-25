@@ -1,14 +1,14 @@
 <div align="center">
 <h3> PhyGenesis: Toward Physically Consistent Driving Video World Models under Challenging Trajectories</h3>
 
-Jiawei Zhou<sup>1,2*</sup>, Zhenxin Zhu<sup>2*</sup>, Lingyi Du<sup>1*</sup>, Linye Lyu<sup>3</sup>, Lijun Zhou<sup>2</sup>, Zhanqian Wu<sup>2</sup>, <br> Hongcheng Luo<sup>2</sup>, Zhuotao Tian<sup>4</sup>, Bing Wang<sup>2</sup>, Guang Chen<sup>2</sup>, Haiyang Sun<sup>2†</sup>, Hangjun Ye<sup>2‡</sup>, Yu Li<sup>1‡</sup>
+Jiawei Zhou<sup>1,2*</sup>, Zhenxin Zhu<sup>2*</sup>, Lingyi Du<sup>1*</sup>, Linye Lyu<sup>3</sup>, Lijun Zhou<sup>2</sup>, Zhanqian Wu<sup>2</sup>, <br> Hongcheng Luo<sup>2</sup>, Zhuotao Tian<sup>4</sup>, Bing Wang<sup>2</sup>, Guang Chen<sup>2</sup>, Hangjun Ye<sup>2✉</sup>, Haiyang Sun<sup>2†</sup>, Yu Li<sup>1✉</sup>
 
 <sup>1</sup> Zhejiang University &nbsp;&nbsp;&nbsp;
 <sup>2</sup> Xiaomi EV &nbsp;&nbsp;&nbsp;
 <sup>3</sup> The Hong Kong Polytechnic University &nbsp;&nbsp;&nbsp;
 <sup>4</sup> Shenzhen Loop Area Institute
 
-(*) Equal contribution. (†) Project leader. (‡) Corresponding Author.
+(*) Equal contribution. (†) Project leader. (✉) Corresponding Author.
 
 <a href="#"><img src='https://img.shields.io/badge/Paper-Coming_Soon-red' alt='Paper PDF'></a>
 <a href="https://wm-research.github.io/PhyGenesis/"><img src='https://img.shields.io/badge/Project_Page-PhyGenesis-green' alt='Project Page'></a>
