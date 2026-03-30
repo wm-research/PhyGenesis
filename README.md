@@ -10,7 +10,7 @@ Jiawei Zhou<sup>1,2*</sup>, Zhenxin Zhu<sup>2*</sup>, Lingyi Du<sup>1*</sup>, Li
 
 (*) Equal contribution. (†) Project leader. (✉) Corresponding Author.
 
-<a href="#"><img src='https://img.shields.io/badge/Paper-Coming_Soon-red' alt='Paper PDF'></a>
+<a href="https://arxiv.org/pdf/2603.24506"><img src='https://img.shields.io/badge/Paper-PhyGenesis-red' alt='Paper PDF'></a>
 <a href="https://wm-research.github.io/PhyGenesis/"><img src='https://img.shields.io/badge/Project_Page-PhyGenesis-green' alt='Project Page'></a>
 </div>
 
